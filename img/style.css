@@ -1,0 +1,11 @@
+body {
+  min-height: 300px;
+}
+
+.jumbroton {
+  padding-top: 2 rem;
+  background-color: #e2dffe;
+}
+#projects {
+  background-color: #e2dffe;
+}
